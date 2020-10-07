@@ -1,3 +1,2 @@
-# helloworld
-hello world programme 1
-git test programme
+# hello world python programme
+print ("hello world")
